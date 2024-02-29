@@ -1,2 +1,3 @@
 # git-github-curso-em-video
- Aprendo as funcionalidades do Git e do GitHub
+## Aprendo as funcionalidades do Git e do GitHub
+* > Além dos ensinamentos de como utilizar o Git e GitHub é ensinado como usar o lingaugem de marcação Markdown...
